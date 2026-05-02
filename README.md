@@ -1,1 +1,3 @@
-# AIoT-777
+유튜브 데모영상
+
+https://youtu.be/96fJeq1c0gI
